@@ -32,6 +32,7 @@ public class Query extends AnAction {
 
         List<String> dependencies = new ArrayList<>();
 
+        //V1
         // Loop through each module and collect its library dependencies
         for (Module module : ModuleManager.getInstance(project).getModules()) {
             OrderEnumerator.orderEntries(module)
