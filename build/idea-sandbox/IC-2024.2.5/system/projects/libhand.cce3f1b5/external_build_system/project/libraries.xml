@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.javaparser:javaparser-symbol-solver-core:unknown" type="java-imported" __external-system-id="Maven">
+    <properties groupId="com.github.javaparser" artifactId="javaparser-symbol-solver-core" version="unknown" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-symbol-solver-core/unknown/javaparser-symbol-solver-core-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-symbol-solver-core/unknown/javaparser-symbol-solver-core-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/javaparser/javaparser-symbol-solver-core/unknown/javaparser-symbol-solver-core-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

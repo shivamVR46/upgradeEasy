@@ -1,0 +1,94 @@
+{
+  "appInfo" : {
+    "build" : "242.24807.4",
+    "buildDate" : "2024-11-26T03:49:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2025-10-23T04:15:46.965193Z",
+    "os" : "macOS 15.6.1",
+    "runtime" : "JetBrains s.r.o. 21.0.5 21.0.5+13-b509.30"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 7,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "libHand",
+    "times" : {
+      "scanningReason" : "changes in: \"Module 'terminal' (annotations, java)\", \"Module 'test' (resources)\", \"Module 'build' (annotations)\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 1,
+      "creatingIteratorsTime" : 0,
+      "concurrentHandlingWallTimeWithoutPauses" : 0,
+      "concurrentHandlingWallTimeWithPauses" : 0,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 29405083,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 21873707,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 7282417,
+      "delayedPushPropertiesStageTime" : 0,
+      "indexExtensionsTime" : 0,
+      "dumbWallTimeWithPauses" : 0,
+      "dumbWallTimeWithoutPauses" : 0,
+      "updatingStart" : "2025-10-23T04:15:46.947003Z",
+      "updatingEnd" : "2025-10-23T04:15:46.964427Z",
+      "totalWallTimeWithPauses" : 17428583,
+      "wallTimeOnPause" : 14000,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 17414583
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 3,
+      "numberOfScannedFiles" : 5,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 0
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Module 'test' (resources)",
+      "numberOfScannedFiles" : 4,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 1706959,
+      "totalOneThreadTimeWithPauses" : 10631250,
+      "iterationAndScannersApplicationTime" : 6829750,
+      "filesCheckTime" : 3730875,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Module 'terminal' (annotations, java)",
+      "numberOfScannedFiles" : 1,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 1049333,
+      "totalOneThreadTimeWithPauses" : 10333166,
+      "iterationAndScannersApplicationTime" : 8346791,
+      "filesCheckTime" : 1873667,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Module 'build' (annotations)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "totalOneThreadTimeWithPauses" : 8440667,
+      "iterationAndScannersApplicationTime" : 6697166,
+      "filesCheckTime" : 1677875,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    } ]
+  }
+}

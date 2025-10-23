@@ -1,0 +1,569 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="libHand" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1pbcc1tfb0qou" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/java-impact-tool/pom.xml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="748">
+              <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"pom.xml (java-impact-tool)","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,88,10,31,105,99,111,110,115,47,114,101,112,111,115,105,116,111,114,121,76,105,98,114,97,114,121,76,111,103,111,46,115,118,103,18,21,105,99,111,110,115,47,101,120,112,117,105,47,109,97,118,101,110,46,115,118,103,26,17,99,111,109,46,105,110,116,101,108,108,105,106,46,106,97,118,97,40,-81,-67,-81,-7,-5,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/java-impact-tool/test/pom.xml">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+        <tab><![CDATA[{"tabTitle":"pom.xml (test)","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,88,10,31,105,99,111,110,115,47,114,101,112,111,115,105,116,111,114,121,76,105,98,114,97,114,121,76,111,103,111,46,115,118,103,18,21,105,99,111,110,115,47,101,120,112,117,105,47,109,97,118,101,110,46,115,118,103,26,17,99,111,109,46,105,110,116,101,108,108,105,106,46,106,97,118,97,40,-81,-67,-81,-7,-5,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/java-impact-tool/terminal/pom.xml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="155">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"pom.xml (terminal)","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,88,10,31,105,99,111,110,115,47,114,101,112,111,115,105,116,111,114,121,76,105,98,114,97,114,121,76,111,103,111,46,115,118,103,18,21,105,99,111,110,115,47,101,120,112,117,105,47,109,97,118,101,110,46,115,118,103,26,17,99,111,109,46,105,110,116,101,108,108,105,106,46,106,97,118,97,40,-81,-67,-81,-7,-5,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/java-impact-tool/idea-plugin/pom.xml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="330">
+              <caret line="15" selection-start-line="15" selection-end-line="20" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"idea-plugin/pom.xml","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,66,10,17,102,105,108,101,84,121,112,101,115,47,120,109,108,46,115,118,103,18,23,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,120,109,108,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-33,-3,-24,-123,1,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/java-impact-tool/build/pom.xml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="263">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"pom.xml (build)","foregroundColor":-2104859,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"EFFECT_COLOR","value":"fa6675"}},{"name":"option","attributes":{"name":"EFFECT_TYPE","value":"2"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,88,10,31,105,99,111,110,115,47,114,101,112,111,115,105,116,111,114,121,76,105,98,114,97,114,121,76,111,103,111,46,115,118,103,18,21,105,99,111,110,115,47,101,120,112,117,105,47,109,97,118,101,110,46,115,118,103,26,17,99,111,109,46,105,110,116,101,108,108,105,106,46,106,97,118,97,40,-81,-67,-81,-7,-5,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "XML": {
+      "usageCount": 23,
+      "lastUsed": 1761193075775
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/java-impact-tool/pom.xml" />
+      <option value="$PROJECT_DIR$/java-impact-tool/terminal/pom.xml" />
+      <option value="$PROJECT_DIR$/java-impact-tool/idea-plugin/pom.xml" />
+      <option value="$PROJECT_DIR$/java-impact-tool/build/pom.xml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="XML">
+      <summary usageCount="23" lastUsage="1761193075775" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="libHand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="libHand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="libHand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/build}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="libHand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/terminal}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="libHand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/terminal}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/terminal/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="libHand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="libHand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test/library}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="libHand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="libHand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="libHand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="libHand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test/src/main/resources/archetype-resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="libHand" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test/src/main/resources/META-INF/maven}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="libHand" />
+            <item name="libHand" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="libHand" />
+              <item name="dir{file:///Users/aanalchokshi/libHand}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///Users/aanalchokshi/libHand/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="java-impact-tool" />
+                <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/build" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="build" />
+                  <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/build}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/build/src" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                    <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/build/src}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/build/target" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="target" />
+                    <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/build/target}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/build/pom.xml" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/maven.svg" iconPlugin="com.intellij.java" isLeaf="true" text="pom.xml" />
+                    <item name="pom.xml" type="d371aba8:MavenTreeStructureProvider$MavenPomFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/idea-plugin" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="idea-plugin" />
+                  <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/idea-plugin}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/terminal" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="terminal" />
+                  <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/terminal}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/terminal/src" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                    <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/terminal/src}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/terminal/src/main" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="main" />
+                      <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/terminal/src/main}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/terminal/src/META-INF" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="META-INF" />
+                      <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/terminal/src/META-INF}" type="462c0819:PsiDirectoryNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/terminal/target" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="target" />
+                    <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/terminal/target}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/terminal/dependency-reduced-pom.xml" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="dependency-reduced-pom.xml" />
+                    <item name="dependency-reduced-pom.xml" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/terminal/Main.java" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/fileTypes/java.svg" iconPlugin="com.intellij" isLeaf="true" text="Main.java" />
+                    <item name="Main.java" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/terminal/pom.xml" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/maven.svg" iconPlugin="com.intellij.java" isLeaf="true" text="pom.xml" />
+                    <item name="pom.xml" type="d371aba8:MavenTreeStructureProvider$MavenPomFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/test" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="test" />
+                  <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/test/library" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="library" />
+                    <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test/library}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/test/library/HikariCP-2.4.7.jar" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/archive.svg" iconPlugin="com.intellij" isLeaf="true" text="HikariCP-2.4.7.jar" />
+                      <item name="HikariCP-2.4.7.jar" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/test/library/slf4j-api-2.0.9.jar" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/archive.svg" iconPlugin="com.intellij" isLeaf="true" text="slf4j-api-2.0.9.jar" />
+                      <item name="slf4j-api-2.0.9.jar" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/test/library/slf4j-api-2.0.10.jar" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/archive.svg" iconPlugin="com.intellij" isLeaf="true" text="slf4j-api-2.0.10.jar" />
+                      <item name="slf4j-api-2.0.10.jar" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/test/library/sqlite-jdbc-3.36.0.3.jar" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/fileTypes/archive.svg" iconPlugin="com.intellij" isLeaf="true" text="sqlite-jdbc-3.36.0.3.jar" />
+                      <item name="sqlite-jdbc-3.36.0.3.jar" type="ab9368bb:PsiFileNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/test/src" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                    <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test/src}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/test/src/main" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="main" />
+                      <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test/src/main}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/test/src/main/resources" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="resources" />
+                        <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/test/src/main/resources/archetype-resources" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="archetype-resources" />
+                          <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test/src/main/resources/archetype-resources}" type="462c0819:PsiDirectoryNode" />
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/test/src/main/resources/archetype-resources/src" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
+                            <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test/src/main/resources/archetype-resources/src}" type="462c0819:PsiDirectoryNode" />
+                          </presentation>
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/test/src/main/resources/archetype-resources/pom.xml" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="pom.xml" />
+                            <item name="pom.xml" type="ab9368bb:PsiFileNode" />
+                          </presentation>
+                        </presentation>
+                        <presentation>
+                          <attributes>
+                            <map>
+                              <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/test/src/main/resources/META-INF/maven" />
+                            </map>
+                          </attributes>
+                          <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="META-INF.maven" />
+                          <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test/src/main/resources/META-INF/maven}" type="462c0819:PsiDirectoryNode" />
+                          <presentation>
+                            <attributes>
+                              <map>
+                                <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/test/src/main/resources/META-INF/maven/archetype.xml" />
+                              </map>
+                            </attributes>
+                            <data iconPath="expui/fileTypes/xml.svg" iconPlugin="com.intellij" isLeaf="true" text="archetype.xml" />
+                            <item name="archetype.xml" type="ab9368bb:PsiFileNode" />
+                          </presentation>
+                        </presentation>
+                      </presentation>
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/test/target" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="target" />
+                    <item name="dir{file:///Users/aanalchokshi/libHand/java-impact-tool/test/target}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/test/pom.xml" />
+                      </map>
+                    </attributes>
+                    <data iconPath="icons/expui/maven.svg" iconPlugin="com.intellij.java" isLeaf="true" text="pom.xml" />
+                    <item name="pom.xml" type="d371aba8:MavenTreeStructureProvider$MavenPomFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/java-impact-tool/pom.xml" />
+                    </map>
+                  </attributes>
+                  <data iconPath="icons/expui/maven.svg" iconPlugin="com.intellij.java" isLeaf="true" text="pom.xml" />
+                  <item name="pom.xml" type="d371aba8:MavenTreeStructureProvider$MavenPomFileNode" />
+                </presentation>
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="nodes/ppLib.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="scope/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28821427" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights left="0.28821427" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="229" y="106" key="SettingsEditor" timestamp="1761190542869">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1761190123675" />
+    <state x="229" y="106" key="SettingsEditor/0.25.1440.815@0.25.1440.815" timestamp="1761190542869" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/java-impact-tool/test/src/main/resources/archetype-resources/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-impact-tool/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-impact-tool/test/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-impact-tool/terminal/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-impact-tool/idea-plugin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-impact-tool/build/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

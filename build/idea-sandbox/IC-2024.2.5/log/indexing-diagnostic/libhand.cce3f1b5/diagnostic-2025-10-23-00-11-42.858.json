@@ -1,0 +1,109 @@
+{
+  "appInfo" : {
+    "build" : "242.24807.4",
+    "buildDate" : "2024-11-26T03:49:00Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2025-10-23T04:11:42.858788Z",
+    "os" : "macOS 15.6.1",
+    "runtime" : "JetBrains s.r.o. 21.0.5 21.0.5+13-b509.30"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 7,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "libHand",
+    "times" : {
+      "scanningReason" : "changes in: \"Module 'build' (annotations, java)\", \"Module 'terminal' (annotations, java)\", \"Module 'test' (resources)\", \"Library Maven: com.github.javaparser:javaparser-core:unknown (#0 class roots, #0 source roots)\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 1,
+      "creatingIteratorsTime" : 0,
+      "concurrentHandlingWallTimeWithoutPauses" : 0,
+      "concurrentHandlingWallTimeWithPauses" : 0,
+      "concurrentHandlingSumOfThreadTimesWithPauses" : 21964875,
+      "concurrentIterationAndScannersApplicationSumOfThreadTimesWithPauses" : 494540,
+      "concurrentFileCheckSumOfThreadTimesWithPauses" : 20356708,
+      "delayedPushPropertiesStageTime" : 0,
+      "indexExtensionsTime" : 0,
+      "dumbWallTimeWithPauses" : 0,
+      "dumbWallTimeWithoutPauses" : 0,
+      "updatingStart" : "2025-10-23T04:11:42.843009Z",
+      "updatingEnd" : "2025-10-23T04:11:42.858094Z",
+      "totalWallTimeWithPauses" : 15087167,
+      "wallTimeOnPause" : 529000,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 14558167
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 4,
+      "numberOfScannedFiles" : 10,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 0
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "Module 'build' (annotations, java)",
+      "numberOfScannedFiles" : 5,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 5798667,
+      "totalOneThreadTimeWithPauses" : 7953333,
+      "iterationAndScannersApplicationTime" : 122583,
+      "filesCheckTime" : 7768875,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Module 'test' (resources)",
+      "numberOfScannedFiles" : 4,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 4992832,
+      "totalOneThreadTimeWithPauses" : 7142708,
+      "iterationAndScannersApplicationTime" : 197416,
+      "filesCheckTime" : 6201125,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Module 'terminal' (annotations, java)",
+      "numberOfScannedFiles" : 1,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 3173042,
+      "totalOneThreadTimeWithPauses" : 6644709,
+      "iterationAndScannersApplicationTime" : 155708,
+      "filesCheckTime" : 6287958,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    }, {
+      "providerName" : "Library Maven: com.github.javaparser:javaparser-core:unknown (#0 class roots, #0 source roots)",
+      "numberOfScannedFiles" : 0,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 0,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 0,
+      "totalOneThreadTimeWithPauses" : 224125,
+      "iterationAndScannersApplicationTime" : 18833,
+      "filesCheckTime" : 98750,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 0,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 0,
+      "roots" : [ ]
+    } ]
+  }
+}

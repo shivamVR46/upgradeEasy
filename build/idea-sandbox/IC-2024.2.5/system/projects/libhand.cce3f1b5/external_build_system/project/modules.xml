@@ -1,0 +1,10 @@
+<project>
+  <component name="ExternalProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java-impact-tool/build/build.iml" filepath="$PROJECT_DIR$/java-impact-tool/build/build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-impact-tool/java-impact-tool.iml" filepath="$PROJECT_DIR$/java-impact-tool/java-impact-tool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-impact-tool/terminal/terminal.iml" filepath="$PROJECT_DIR$/java-impact-tool/terminal/terminal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-impact-tool/test/test.iml" filepath="$PROJECT_DIR$/java-impact-tool/test/test.iml" />
+    </modules>
+  </component>
+</project>

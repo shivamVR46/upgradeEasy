@@ -1,0 +1,10 @@
+<project>
+  <component name="ExternalCompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="build" target="11" />
+      <module name="java-impact-tool" target="11" />
+      <module name="terminal" target="11" />
+      <module name="test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

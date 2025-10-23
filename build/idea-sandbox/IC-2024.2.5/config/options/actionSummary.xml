@@ -1,0 +1,40 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="3" l="1761192759194" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="6" l="1761192960678" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1761193132873" />
+    </e>
+    <e n="EditorDownWithSelection">
+      <i c="6" l="1761192626023" />
+    </e>
+    <e n="EditorPaste">
+      <i c="1" l="1761193138193" />
+    </e>
+    <e n="EditorTab">
+      <i c="2" l="1761193137707" />
+    </e>
+    <e n="EditorUpWithSelection">
+      <i c="1" l="1761192627777" />
+    </e>
+    <e n="SaveAll">
+      <i c="23" l="1761193139424" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="2" l="1761190537602" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1761190015824" />
+    </e>
+    <e n="WelcomeScreen.Plugins">
+      <i c="2" l="1761190539386" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1761192828939" />
+    </e>
+  </component>
+</application>

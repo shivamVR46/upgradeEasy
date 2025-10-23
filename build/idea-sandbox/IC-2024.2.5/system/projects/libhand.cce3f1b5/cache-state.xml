@@ -1,0 +1,23 @@
+<project version="4">
+  <component name="ExternalSystemProjectTracker"><![CDATA[{
+  "projectData": {
+    "MAVEN": {
+      "libHand": {
+        "settingsTracker": {
+          "isDirty": false,
+          "settingsFiles": {
+            "/Users/aanalchokshi/libHand/java-impact-tool/pom.xml": 1937399425,
+            "/Users/aanalchokshi/libHand/java-impact-tool/build/pom.xml": 2946703183,
+            "/Users/aanalchokshi/libHand/java-impact-tool/test/pom.xml": 2572870645,
+            "/Users/aanalchokshi/libHand/java-impact-tool/terminal/pom.xml": 2536632386
+          }
+        }
+      }
+    }
+  }
+}]]></component>
+  <component name="ProjectDependenciesModelState">
+    <option name="PROJECT_STATE" value="[{&quot;type&quot;:&quot;maven&quot;,&quot;namespace&quot;:&quot;com.github.javaparser&quot;,&quot;name&quot;:&quot;javaparser-symbol-solver-core&quot;,&quot;version&quot;:{&quot;value&quot;:&quot;unknown&quot;,&quot;releaseDate&quot;:null},&quot;qualifiers&quot;:null,&quot;subpath&quot;:null,&quot;releaseDate&quot;:null,&quot;coordinates&quot;:&quot;maven:com.github.javaparser:javaparser-symbol-solver-core:unknown:null:null&quot;,&quot;searchCoordinates&quot;:&quot;com.github.javaparser:javaparser-symbol-solver-core:unknown&quot;,&quot;searchKey&quot;:&quot;80bf5a7336090a41ba46bba7bc7d60727e10c2b25321981c7594efd821013903&quot;,&quot;humanReadableCoordinates&quot;:&quot;maven:com.github.javaparser:javaparser-symbol-solver-core:unknown&quot;}]" />
+  </component>
+  <component name="RestoreUpdateTree">{}</component>
+</project>

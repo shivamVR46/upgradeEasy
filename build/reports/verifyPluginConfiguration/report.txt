@@ -1,0 +1,1 @@
+- The IntelliJ Platform cache directory should be excluded from the version control system. Add the '.intellijPlatform' entry to the '.gitignore' file.
